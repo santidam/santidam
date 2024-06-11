@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Santi Gonzalez</a> 👋</h1>
 </div>
-<img src="https://imgur.com/wj0GpIo">
+<img src="https://i.imgur.com/wj0GpIo.jpeg">
 
 
 
