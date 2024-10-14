@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Proyecto aplicación CRM</h3>
 <div align="center">
-<a href="https://github.com/santidam/CRM" target="_blank"><img  width="400" alt="CRM"></a>
+<a href="https://github.com/santidam/CRM" target="_blank"><img src = "https://imgur.com/43Gyvf6"  width="400" alt="CRM"></a>
 </p>
 
 </div>
