@@ -17,7 +17,7 @@
     <td width="50%" align="center">
       <h3>Proyecto aplicación CRM</h3>
       <a href="https://github.com/santidam/CRM" target="_blank">
-        <img src="https://imgur.com/43Gyvf6" width="400" alt="CRM">
+        <img src="https://imgur.com/43Gyvf6.jpeg" width="400" alt="CRM">
       </a>
       <p>Aplicación para gestionar clientes y ventas. Desarrollada en Java y PostgreSQL.</p>
     </td>
