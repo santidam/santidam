@@ -1,9 +1,9 @@
 <div align="center">
-<h1 align="center">¡Hola, soy <a href="https://aristi.dev">Santi Gonzalez</a>! 👋</h1>
+<h1 align="center">¡Hola, soy <a href="https://santidam">Santi Gonzalez</a>! 👋</h1>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/wj0GpIo.jpeg" alt="Imagen principal" width="300">
+  <img src="https://i.imgur.com/wj0GpIo.jpeg" alt="Imagen principal">
 </div>
 
 ## Un poco sobre mí
